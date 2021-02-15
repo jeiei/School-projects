@@ -13,7 +13,7 @@ def main(): #pääohjelmafunktio
                 syt(xl,yl)
                 x,y = input("Enter two values: ").split()
     except:
-        print("Ohjelma suljetaan")
+        print("Program will now close")
         
 
 #     xl = xf(x) 
