@@ -96,8 +96,7 @@ while True:
         tallennaKilpailu(nimi, kilpailu)
         #kilpailu = dict()
         #nimi = "" 
-        #näitä arvoja ei näköjään kuulu alustaa tallentamisen jälkeen?
-        #eli kun tallentaa niin noi tiedot kuuluu jäädä vielä muistisäiliöön?
+        
     
     #Tulostaa kilpailusäiliön
     if valinta == "p" or valinta == "P":
